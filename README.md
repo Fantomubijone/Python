@@ -15,7 +15,7 @@ Welcome to the Integrative Programming (IT0011) repository! This repository cont
 
 ## About the Course
 
-![Python Logo](images/python_logo.png) Integrative Programming (IT0011) course provides discussion on data types, control structures, functions, collections, text files, objects and classes, graphics and image processing, network client and server programming, graphical user interfaces, and event-driven programming via Python programming language.
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png) Integrative Programming (IT0011) course provides discussion on data types, control structures, functions, collections, text files, objects and classes, graphics and image processing, network client and server programming, graphical user interfaces, and event-driven programming via Python programming language.
 
 ## Folder Structure
 
