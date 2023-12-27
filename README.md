@@ -1,7 +1,7 @@
 # Integrative Programming (IT0011) Repository
 
 ![Feutech Logo](https://feutech.edu.ph/assets/elib/images/feutechlogo.png)
-![Python Logo](images/python_logo.png)
+
 
 ## Overview
 
@@ -12,12 +12,10 @@ Welcome to the Integrative Programming (IT0011) repository! This repository cont
 1. [About the Course](#about-the-course)
 2. [Folder Structure](#folder-structure)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## About the Course
 
-Integrative Programming (IT0011) course provides discussion on data types, control structures, functions, collections, text files, objects and classes, graphics and image processing, network client and server programming, graphical user interfaces, and event-driven programming via Python programming language.
+![Python Logo](images/python_logo.png) Integrative Programming (IT0011) course provides discussion on data types, control structures, functions, collections, text files, objects and classes, graphics and image processing, network client and server programming, graphical user interfaces, and event-driven programming via Python programming language.
 
 ## Folder Structure
 
