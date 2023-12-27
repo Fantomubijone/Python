@@ -17,18 +17,17 @@ Welcome to the Integrative Programming (IT0011) repository! This repository cont
 
 ## About the Course
 
-Integrative Programming (IT0011) is a course offered at [Your University Name]. It covers fundamental concepts and practices in Python programming, focusing on integration of various programming skills to solve real-world problems.
+Integrative Programming (IT0011) course provides discussion on data types, control structures, functions, collections, text files, objects and classes, graphics and image processing, network client and server programming, graphical user interfaces, and event-driven programming via Python programming language.
 
 ## Folder Structure
 
 - `exercises/`: This folder contains individual exercises completed throughout the course.
-- `activities/`: Here, you'll find practical activities and projects assigned during the term.
+- `summatives/`: Here, you'll find practical activities assigned during the term.
+- `project`: The final project assets and stuff by the end of the term
 - `resources/`: Any additional resources, documents, or helpful materials related to the course.
 
 ## Usage
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/integrative-programming-it0011.git
-   ```
+```bash git clone https://github.com/your-username/integrative-programming-it0011.git ```
