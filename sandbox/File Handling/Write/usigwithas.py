@@ -7,6 +7,6 @@ with open("Python/sandbox/withAs.txt", 'w') as f:
 # Dynamic with as 
 file_path = "Python/sandbox/dynaWithAs.txt"
 with open(file_path, 'w') as file:
-    file.write("Welcome to Pythons!!")
+    file.write("Welcome to Python!!")
 
 print(f"Content has been written to {file_path}")
