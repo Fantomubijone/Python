@@ -1,4 +1,4 @@
-file = open("Python/sandbox/UserInput.txt", 'w')
+file = open("Python/sandbox/Leylalabs.txt", 'w')
 for i in range(3):
     name = input("Enter the name of the employee: ")
     file.write(name)

@@ -1,0 +1,7 @@
+# f = open('Python/sandbox/Welcome.txt', 'a+')
+# f.write("\nFlat chested is better than Big Oppai")
+f = open('Python/sandbox/Welcome.txt', 'r')
+f.seek(5,)
+print(f.readline())
+print(f.tell())
+f.close()
